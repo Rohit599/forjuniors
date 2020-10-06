@@ -1,3 +1,2 @@
 # forjuniors
-# forjuniors
-## Make juniors familiar with github.
+This is a demo project for contribution in future. 
